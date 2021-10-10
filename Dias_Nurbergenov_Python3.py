@@ -1,4 +1,3 @@
-import re
 import requests
 from bs4 import BeautifulSoup
 url = "https://api.coinmarketcap.com/content/v3/news?coins=1&page=1&size=5"
